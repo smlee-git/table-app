@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "831289164846",
+    "firebase_url": "https://table-order-a43ce.firebaseio.com",
+    "project_id": "table-order-a43ce",
+    "storage_bucket": "table-order-a43ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831289164846:android:6229594ece5cff2a",
+        "android_client_info": {
+          "package_name": "com.project.tableorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831289164846-4ro18oijds0qkn7mvsaa20vd2a7cngf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.tableorder",
+            "certificate_hash": "b4e5c2bf592d26fefdb2422ea92f56157c30c120"
+          }
+        },
+        {
+          "client_id": "831289164846-5hkhl4h2o706dvlkub9f090m45j50lg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCenD_AHz4cfaLOSoBidsJM1NlVgw-_gpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831289164846-5hkhl4h2o706dvlkub9f090m45j50lg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
